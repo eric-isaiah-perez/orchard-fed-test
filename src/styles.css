@@ -1,0 +1,55 @@
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../assets/open-sans/regular/OpenSans-Regular.eot');
+  src: url('../assets/open-sans/regular/OpenSans-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../assets/open-sans/regular/OpenSans-Regular.woff2') format('woff2'),
+    url('../assets/open-sans/regular/OpenSans-Regular.woff') format('woff'),
+    url('../assets/open-sans/regular/OpenSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../assets/open-sans/light/OpenSans-Light.eot');
+  src: url('../assets/open-sans/light/OpenSans-Light.eot?#iefix') format('embedded-opentype'),
+    url('../assets/open-sans/light/OpenSans-Light.woff2') format('woff2'),
+    url('../assets/open-sans/light/OpenSans-Light.woff') format('woff'),
+    url('../assets/open-sans/light/OpenSans-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../assets/open-sans/medium/OpenSans-Medium.eot');
+  src: url('../assets/open-sans/medium/OpenSans-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../assets/open-sans/medium/OpenSans-Medium.woff2') format('woff2'),
+    url('../assets/open-sans/medium/OpenSans-Medium.woff') format('woff'),
+    url('../assets/open-sans/medium/OpenSans-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../assets/open-sans/bold/OpenSans-Bold.eot');
+  src: url('../assets/open-sans/bold/OpenSans-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../assets/open-sans/bold/OpenSans-Bold.woff2') format('woff2'),
+    url('../assets/open-sans/bold/OpenSans-Bold.woff') format('woff'),
+    url('../assets/open-sans/bold/OpenSans-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  background-color: #0e1414;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
