@@ -145,6 +145,10 @@ p {
     font-size: 32px;
   }
 
+  p {
+    font-size: 16px;
+  }
+
   .post-title,
   .post-anchor {
     font-size: 17px
