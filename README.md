@@ -1,6 +1,8 @@
 # orchard-fed-test
 A repository created specifically for Front End Developer skills test created by Eric Isaiah Perez. To test the project please run `npm install` and `npm run build`.
 
+Demo Link: https://ericisaiahperez.com/front-end-skills-test/
+
 For this project I used jQuery and Bootstrap for my javascript and CSS framework. 
 
 I also used the following libraries for this project:
